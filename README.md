@@ -1,1 +1,1 @@
-# Book-Store-Book-Mania
+This is a Responsive Online Book Store Designed using HTML, CSS, JavaScript in which user can login or register,view the available book, select Book along with their quantity and buy them.
